@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Gemini-tutor**
 
-- 🌱 I’m currently learning **Flutter, ML, Blockchain,System design**
-
-- 🔭 Hackthon project **Optimizing Gen AI for Resource-Constrained Devices and Real-Time Environments with NVIDIA Inference Microservices**
+- 🔭 Hackathon project **Optimizing Gen AI for Resource-Constrained Devices and Real-Time Environments with NVIDIA Inference Microservices**
 
 - 🔭 MOSIP project **Credential Facilitation for Empowerment**
+- 
+- - 🌱 I’m currently learning **Flutter, ML, Blockchain,System design**
 
 - 📫 Reach me at **bindureddy469@gmail.com**
 
