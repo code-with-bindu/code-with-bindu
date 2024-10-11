@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **bindureddy469@gmail.com**
 
-- ⚡ Fun fact **Life is a journey of learning, where every experience shapes who we become.
-**
+- ⚡ Fun fact Life is a journey of learning, where every experience shapes who we become.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
