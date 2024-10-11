@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Flutter, ML, Blockchain,System design**
 
+- 🔭 **Optimizing Gen AI for Resource-Constrained Devices and Real-Time Environments with NVIDIA Inference Microservices**
+
+- 🔭 **Credential Facilitation for Empowerment**
+
 - 📫 Reach me at **bindureddy469@gmail.com**
 
 - ⚡ Fun fact - **Life is a balance of holding on and letting go.**
