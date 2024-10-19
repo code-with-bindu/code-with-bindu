@@ -9,7 +9,7 @@
 
 - 🔭 MOSIP project **Credential Facilitation for Empowerment**
 
-- 🌱 I’m currently learning **Flutter, ML, Blockchain,System design**
+- 🌱 I’m currently learning **Flutter, ML, Blockchain,Deep Learning,AI**
 
 - 📫 Reach me at **bindureddy469@gmail.com**
 
