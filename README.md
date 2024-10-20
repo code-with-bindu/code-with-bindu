@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact - **Life is a balance of holding on and letting go.**
 
-<p align="center"><a target="_blank" href="https://calendar.app.google/p77NXnjdcH6at29P6" style="text-decoration:none">☕️ <b>30 min chat</b> ☕️</a></p>
-
 - check my work at https://codepen.io/Bindu-Explorer
+
+<p align="center"><a target="_blank" href="https://calendar.app.google/p77NXnjdcH6at29P6" style="text-decoration:none">☕️ <b>30 min chat</b> ☕️</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
