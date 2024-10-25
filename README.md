@@ -19,6 +19,8 @@
 
 <p align="left"><a target="_blank" href="https://calendar.app.google/p77NXnjdcH6at29P6" style="text-decoration:none">☕️ <b>30 min chat</b> ☕️</a></p>
 
+<iframe src="https://github.com/sponsors/code-with-bindu/button" title="Sponsor code-with-bindu" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hima bindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hima bindu" height="30" width="40" /></a>
