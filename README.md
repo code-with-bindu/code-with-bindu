@@ -7,7 +7,7 @@
 
 - 🔭 Hackathon project **Optimizing Gen AI for Resource-Constrained Devices and Real-Time Environments with NVIDIA Inference Microservices**
 
-- 🔭 MOSIP project **Credential Facilitation for Empowerment**
+- 🔭 MOSIP Create project **Emergency Relief Systems Enhancement**
 
 - 🌱 I’m currently learning **Flutter, ML, Blockchain,Deep Learning,AI**
 
