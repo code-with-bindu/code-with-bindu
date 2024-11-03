@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Gemini-tutor**
 
+- 🔭 Amazon Sambhav-Challenge 
+
 - 🔭 Hackathon project **Optimizing Gen AI for Resource-Constrained Devices and Real-Time Environments with NVIDIA Inference Microservices**
 
 - 🔭 MOSIP Create project **Emergency Relief Systems Enhancement**
