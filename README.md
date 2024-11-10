@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-bindu&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-bindu" /> </p>
 
-- 🔭 I’m currently working on **Gemini-tutor**
+- 🔭 I’m currently working on **Ecoverse**
 
 - 🔭 Amazon Sambhav-Challenge 
 
