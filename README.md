@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on **Ecoverse**
 
+
 - 🔭 Amazon Sambhav-Challenge 
 
 - 🔭 Hackathon project **Optimizing Gen AI for Resource-Constrained Devices and Real-Time Environments with NVIDIA Inference Microservices**
