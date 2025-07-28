@@ -4,15 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-bindu&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-bindu" /> </p>
 
-- 🔭 I’m currently working on **Ecoverse**
-  
-- 🔭 Amazon Sambhav-Challenge
+- 🔭 I’m currently working on **Ecoverse, Emergency Alert App**
 
-- 🔭 Hackathon project **Optimizing Gen AI for Resource-Constrained Devices and Real-Time Environments with NVIDIA Inference Microservices**
-
-- 🔭 MOSIP Create project **Emergency Relief Systems Enhancement**
-
-- 🌱 I’m currently learning **Flutter, ML, Blockchain,Deep Learning,AI**
+- 🌱 I’m currently learning **Flutter, React Native , Backend, Cryptography ,ML, Blockchain,Deep Learning,AI**
 
 - 📫 Reach me at **bindureddy469@gmail.com**
 
